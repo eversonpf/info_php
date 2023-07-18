@@ -26,3 +26,7 @@ if ($operador == "/"){
 }
 
 echo $resultado;
+
+
+
+
